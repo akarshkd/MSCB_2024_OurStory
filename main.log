@@ -1,54 +1,60 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.31)  26 AUG 2024 16:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.27)  26 AUG 2024 18:55
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/cslo/Desktop/Prog/VSCode/MCSB2024/MSCB_2024_OurStory/main.tex
-(/Users/cslo/Desktop/Prog/VSCode/MCSB2024/MSCB_2024_OurStory/main.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+**main.tex
+(./main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@section=\count186
-\c@subsection=\count187
-\c@subsubsection=\count188
-\c@paragraph=\count189
-\c@subparagraph=\count190
-\c@figure=\count191
-\c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
-) (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count193
-\Gm@cntv=\count194
-\c@Gm@tempcnt=\count195
-\Gm@bindingoffset=\dimen139
-\Gm@wd@mp=\dimen140
-\Gm@odd@mp=\dimen141
-\Gm@even@mp=\dimen142
-\Gm@layoutwidth=\dimen143
-\Gm@layoutheight=\dimen144
-\Gm@layouthoffset=\dimen145
-\Gm@layoutvoffset=\dimen146
-\Gm@dimlist=\toks17
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count196
-\l__pdf_internal_box=\box50
-) (./main.aux)
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count199
+\l__pdf_internal_box=\box51
+)
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -108,17 +114,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 7.
 [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./main.aux) ) 
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2] (./main.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+ ) 
 Here is how much of TeX's memory you used:
- 1029 strings out of 478268
- 17505 string characters out of 5846347
- 321458 words of memory out of 5000000
- 19294 multiletter control sequences out of 15000+600000
- 472294 words of font info for 38 fonts, out of 8000000 for 9000
+ 1047 strings out of 474116
+ 17734 string characters out of 5743682
+ 1934187 words of memory out of 5000000
+ 23464 multiletter control sequences out of 15000+600000
+ 561104 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,62p,297b,193s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (2 pages, 48904 bytes).
+ 57i,6n,65p,239b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on main.pdf (2 pages, 49164 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream
